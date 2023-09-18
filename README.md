@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/VittorioCodes">
-    <img src="https://pbs.twimg.com/media/F4YZyVxXkAALt_l?format=jpg&name=small" alt="You're awesome!"/>
+    <img src="https://i.imgur.com/gVw45Aw.png" alt="You're awesome!"/>
   </a>
 </p>
 <h1 align="center">Hi 👋, name's Vittorio but I prefer V.</h1>
