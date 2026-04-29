@@ -8,3 +8,11 @@
 
 - 📫 Shoot me an e-mail: **vittoriocodes@gmail.com**
 
+### Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=VittorioCodes&theme=dracula)
+
+### GitHub Stats
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=vittoriocodes&show_icons=true&theme=dracula" height="150" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriocodes&layout=compact&theme=dracula" height="150" align="center" />
+</div>
