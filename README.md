@@ -13,6 +13,6 @@
 
 ### GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=vittoriocodes&show_icons=true&theme=dracula" height="150" align="left" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriocodes&layout=compact&theme=dracula" height="150" align="center" />
+  <img src="https://kayan-github-profile-projects-featu.vercel.app/api?username=vittoriocodes&show_icons=true&theme=dracula" height="150" align="left" />
+  <img src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=vittoriocodes&layout=compact&theme=dracula" height="150" align="center" />
 </div>
